@@ -4,7 +4,7 @@ class Unport < Formula
   desc "Find, open and kill listening ports from the macOS menu bar"
   homepage "https://github.com/iaurg/unport"
   url "https://github.com/iaurg/unport/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "REPLACE_WITH_TARBALL_SHA256"
+  sha256 "05009748527434dd6d7b8b383a54f64add925739155df8f37ba663dc99efb834"
   license "MIT"
   head "https://github.com/iaurg/unport.git", branch: "main"
 
