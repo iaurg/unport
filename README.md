@@ -12,7 +12,7 @@ Find, open and kill listening ports in a couple of clicks — so you can go back
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![macOS 13+](https://img.shields.io/badge/macOS-13%2B-black?logo=apple)
 
-<img src="images/showcase-unport-mac.jpg" alt="Unport's ethernet port icon sitting in the macOS menu bar" width="820">
+<img src="images/showcase-unport-mac.jpg" alt="Unport's menu bar popover listing listening ports with their process and pid, each with copy, open and kill buttons" width="820">
 
 </div>
 
