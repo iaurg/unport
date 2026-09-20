@@ -1,6 +1,22 @@
-# Unport
+<div align="center">
 
-Manage ports from your menu bar. Find, open and kill listening ports in a couple of clicks — so you can go back to writing code.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/unport-logo-dark.png">
+  <img src="images/unport-logo.png" alt="Unport" width="420">
+</picture>
+
+**Manage ports from your menu bar.**
+Find, open and kill listening ports in a couple of clicks — so you can go back to writing code.
+
+[![CI](https://github.com/iaurg/unport/actions/workflows/ci.yml/badge.svg)](https://github.com/iaurg/unport/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+![macOS 13+](https://img.shields.io/badge/macOS-13%2B-black?logo=apple)
+
+<img src="images/showcase-unport-mac.jpg" alt="Unport's ethernet port icon sitting in the macOS menu bar" width="820">
+
+</div>
+
+## What it does
 
 - **Find** — every listening TCP port with its process, pid and user. Type to filter by port, name or pid.
 - **Open** — jump to `http://localhost:<port>` in your browser, or copy `localhost:<port>`.
